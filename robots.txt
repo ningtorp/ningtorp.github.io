@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ningtorp.github.io/sitemap.html.gz
+Sitemap: https://ningtorp.github.io/app/sitemap.html.gz
+Sitemap: https://ningtorp.github.io/assets/sitemap.html.gz
+Sitemap: https://ningtorp.github.io/css/sitemap.html.gz
+Sitemap: https://ningtorp.github.io/includes/sitemap.html.gz
+Sitemap: https://ningtorp.github.io/item/sitemap.html.gz
+Sitemap: https://ningtorp.github.io/src/sitemap.html.gz
